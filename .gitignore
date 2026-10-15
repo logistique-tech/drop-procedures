@@ -1,0 +1,7 @@
+.env
+*.env
+__pycache__/
+_site/
+.jekyll-cache/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,8 @@
+title: Procédures D.R.O.P.
+description: Fiches procédure du dépôt Cheminées Hervé Gehin
+lang: fr
+theme: jekyll-theme-minimal
+exclude:
+  - scripts/
+  - README.md
+  - procedures/_modele.md
